@@ -1,3 +1,19 @@
+---
+layout: engineering-education
+status: publish
+published: false
+url: /engineering-education/css-in-js-solutions/
+title: How To Implement a custom scrollbar on a web page using CSS
+description: In this tutorial, we will learn how to build a web page and use CSS to customize scrollbars on modern browsers.
+author:
+date:
+topic: []
+excerpt_separator: <!--more-->
+images:
+    - url: /engineering-education/custom-scroll-bar/hero.jpg
+      alt: custom scrollbar on a web page using CSS
+---
+
 CSS is the language we use to improve the look and feel of our applications on web pages. With the current CSS
 scrollbar specification from [W3C](https://www.w3.org/TR/2018/WD-css-scrollbars-1-20180925), we can now customize the appearance of the scrollbar with using CSS.
 In this tutorial, we will learn how to build a web page and use CSS to customize scrollbars on modern browsers.
